@@ -5,9 +5,9 @@ Desafio Proposto Por Marcos Moraes & Marcelo Salomão, com intuito de avaliar a 
 # Proposta do Desafio:
   Fazer um CRUD em Laravel {
       - Migration; <br>
-      - Upload de Imagem; 
-      - Soft Delete;
-      - Safe Delete;
+      - Upload de Imagem; <br>
+      - Soft Delete; <br>
+      - Safe Delete; <br>
       }
          
 # Passos 
