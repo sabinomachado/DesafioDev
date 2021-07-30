@@ -1,6 +1,6 @@
 # DesafioDev
 
-Desafio Proposto Por Marcos Moraes & Marcelo Salomão, com intuito de avaliar a codificação. 
+Desafio Proposto Por Marcos Moraes & Marcelo Salomão.
 
 # Proposta do Desafio:
   Fazer um CRUD em Laravel {<br>
@@ -11,3 +11,7 @@ Desafio Proposto Por Marcos Moraes & Marcelo Salomão, com intuito de avaliar a 
       }
          
 # Passos 
+  
+  - Criar uma base de dados chamada DesafioSabino; <br>
+  - Executar as migrates para criação das tabelas no DB; <br>
+  - Executar as seeders para preenchimento de dados nas tabelas; <br>
