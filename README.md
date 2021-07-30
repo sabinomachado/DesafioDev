@@ -1,10 +1,10 @@
 # DesafioDev
 
-# Desafio Proposto Por Marcos Moraes & Marcelo Salomão, com intuito de avaliar a codificação. 
+Desafio Proposto Por Marcos Moraes & Marcelo Salomão, com intuito de avaliar a codificação. 
 
 # Proposta do Desafio:
   Fazer um CRUD em Laravel {
-      - Migration;
+      - Migration; <br>
       - Upload de Imagem; 
       - Soft Delete;
       - Safe Delete;
