@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::resource('/clientes', 'ClienteController',[
+    'except' => [ 'destroy' ]
+    ]
+);
+
+/* ------------------------------------Destroy---------------------------------------- */
+Route::get('/clientes/destroy/{id}', 'ClienteController@destroy')->name('clientes/destroy');
