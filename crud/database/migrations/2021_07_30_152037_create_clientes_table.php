@@ -17,6 +17,7 @@ class CreateClientesTable extends Migration
             $table->increments('id');
             $table->integer('cpf');
             $table->string('nome');
+            $table->string('image');
             $table->string('email');
             $table->integer('rg');
             $table->date('dt_nascimento');
